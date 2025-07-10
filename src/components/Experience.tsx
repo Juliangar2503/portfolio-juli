@@ -1,7 +1,9 @@
+import accentureLogo from './assets/logos/accentureLogo.png';
+
 const experiencia = [
         {
             empresa: "Accenture",
-            logo: "./public/logos/accentureLogo.png",
+            logo: accentureLogo,
             rol: "Salesforce Developer",
             duracion: "4 meses",
             descripcion:
