@@ -1,4 +1,6 @@
-import accentureLogo from './src/assets/logos/accentureLogo.png';
+import accentureLogo from '../assets/logos/accentureLogo.png';
+import tussamLogo from '../assets/logos/tussamLogo.jpeg';
+import vexizaLogo from '../assets/logos/vexizaLogo.jpeg';
 
 const experiencia = [
         {
@@ -11,7 +13,7 @@ const experiencia = [
         },
         {
             empresa: "Tussam padel",
-            logo: "./public/logos/tussamLogo.jpeg",
+            logo: tussamLogo,
             rol: "Desarrollador Full Stack",
             duracion: "3 meses",
             descripcion:
@@ -19,7 +21,7 @@ const experiencia = [
         },
         {
             empresa: "Vexiza",
-            logo: "./public/logos/vexizaLogo.jpeg",
+            logo: vexizaLogo,
             rol: "Desarrollador Full Stack",
             duracion: "Actualmente",
             descripcion:
