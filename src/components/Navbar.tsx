@@ -11,7 +11,7 @@ export default function Navbar() {
 
         {/* Desktop nav */}
         <nav className="hidden md:flex space-x-6 text-sm font-medium">
-          <a href="#servicios" className="text-gray-300 hover:text-white hover:underline">SERVICIOS</a>
+          <a href="#experiencia" className="text-gray-300 hover:text-white hover:underline">EXPERIENCIA</a>
           <a href="#tecnologia" className="text-gray-300 hover:text-white hover:underline">TECNOLOGÍA</a>
           <a href="#portfolio" className="text-gray-300 hover:text-white hover:underline">PORTFOLIO</a>
           <a href="#contacto" className="text-gray-300 hover:text-white hover:underline">CONTACTO</a>
@@ -32,7 +32,7 @@ export default function Navbar() {
       {/* Mobile menu */}
       {menuOpen && (
         <nav className="md:hidden px-6 pb-4 space-y-2 text-sm font-medium text-gray-300">
-          <a href="#servicios" className="block hover:text-white">SERVICIOS</a>
+          <a href="#experiencia" className="block hover:text-white">EXPERIENCIA</a>
           <a href="#tecnologia" className="block hover:text-white">TECNOLOGÍA</a>
           <a href="#portfolio" className="block hover:text-white">PORTFOLIO</a>
           <a href="#contacto" className="block hover:text-white">CONTACTO</a>
