@@ -1,7 +1,7 @@
 const experiencia = [
         {
             empresa: "Accenture",
-            logo: "./src/assets/logos/accentureLogo.png",
+            logo: "./public/logos/accentureLogo.png",
             rol: "Salesforce Developer",
             duracion: "4 meses",
             descripcion:
@@ -9,7 +9,7 @@ const experiencia = [
         },
         {
             empresa: "Tussam padel",
-            logo: "./src/assets/logos/tussamLogo.jpeg",
+            logo: "./public/logos/tussamLogo.jpeg",
             rol: "Desarrollador Full Stack",
             duracion: "3 meses",
             descripcion:
@@ -17,7 +17,7 @@ const experiencia = [
         },
         {
             empresa: "Vexiza",
-            logo: "./src/assets/logos/vexizaLogo.jpeg",
+            logo: "./public/logos/vexizaLogo.jpeg",
             rol: "Desarrollador Full Stack",
             duracion: "Actualmente",
             descripcion:

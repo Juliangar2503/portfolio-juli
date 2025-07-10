@@ -7,9 +7,9 @@ export default function Portfolio() {
             title: 'TUSSAM PADEL',
             description:
                 'Aplicación actualmente en uso, creada para facilitar al administrador la gestión de clasificaciones y resultados de partidos. Antes, este proceso le quitaba mucho tiempo y los jugadores no podían consultar los resultados en tiempo real.',
-            imageUrl: './src/assets/proyect1.png',
+            imageUrl: './public/proyect1.png',
             demoUrl: 'https://tussam-padel-dinamic.web.app/auth',
-            manualUrl: './src/assets/manuales/PadelTussamApp.pdf',
+            manualUrl: './public/manuales/PadelTussamApp.pdf',
             hasGooglePlay: true,
             googlePlayUrl: 'https://play.google.com/store/apps/details?id=com.tussam.padel',
         },
@@ -17,9 +17,9 @@ export default function Portfolio() {
             title: 'Casillas Padel Admin',
             description:
                 'Este proyecto me hace especial ilusión. Se trata de una aplicación para la gestión de pistas de pádel en el club donde suelo jugar. Anteriormente, el propietario del club organizaba todo manualmente mediante notas y calendario, lo que ahora se ha digitalizado y optimizado con esta solución. Credenciales de prueba: garqui325@gmail.com - 123456',
-            imageUrl: './src/assets/proyect2.png',
+            imageUrl: './public/proyect2.png',
             demoUrl: 'https://casillas-padel-admin.web.app/auth',
-            manualUrl: './src/assets/manuales/CasillasPadelApp.pdf',
+            manualUrl: './public/manuales/CasillasPadelApp.pdf',
             hasGooglePlay: false,
         },
     ];

@@ -16,7 +16,7 @@ export default function Hero() {
             </div>
             <div className="md:w-1/2 flex justify-center">
                 <img
-                    src="./src/assets/me.png"
+                    src="./public/me.png"
                     alt="Julián Garrido"
                     className="w-72 sm:w-80 md:w-96 rounded-2xl border-4 border-white/10 shadow-xl"
                 />
