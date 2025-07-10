@@ -1,4 +1,4 @@
-import accentureLogo from './assets/logos/accentureLogo.png';
+import accentureLogo from './src/assets/logos/accentureLogo.png';
 
 const experiencia = [
         {
